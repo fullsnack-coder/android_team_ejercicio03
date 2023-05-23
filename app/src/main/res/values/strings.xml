@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Grupo_01_GarciaChuman_Tarea_04_Ejercicio_03</string>
+    <string name="category_todos">Todos</string>
+    <string name="category_series_e">Series E</string>
+    <string name="category_montana">De montaña</string>
+    <string name="category_partes">Partes</string>
+    <string name="category_isotypes">Isotipos</string>
+    <string name="category_merch">Coleccionables</string>
+    <string name="lbl_promociones">Promociones</string>
+    <string name="lbl_termina_en">Termina en</string>
+    <string name="btn_ver_todos">Ver Todos</string>
+    <string name="lbl_cantidad">8 restantes</string>
+    <string name="lbl_precio">$50 000</string>
+    <string name="btn_comprar">COMPRAR AHORA</string>
+    <string name="lbl_oferta_restante">15:50:10</string>
+    <string name="lbl_nombre_producto">Cult_Vans X</string>
+    <string name="lbl_nombre_producto_segundo">TDR 3000 - Mountain</string>
+    <string name="lbl_nombre_producto_tercero">VERDE - Xtreme BMX</string>
+</resources>
